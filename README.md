@@ -1,4 +1,4 @@
-<h1 align="center">Rotating Navigation</h1>
+<h1 align="center">Sound Board</h1>
 
 <div align="center">
    #50days50projects</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/Sound_board/">
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/Sound_board">
       Solution
   </h3>
 </div>
